@@ -6,7 +6,7 @@ Angora Website - Pixel Perfect and Responsive
 
 ## Overview
 
-This project is a responsive and pixel-perfect website built using HTML, CSS, and Bootstrap. It aims to provide a visually appealing and user-friendly experience.
+This project is a responsive and pixel-perfect website built using HTML, CSS, and Bootstrap. It aims to provide a visually appealing and user-friendly experience a with a lot of css features.
 
 ## Features
 
