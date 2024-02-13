@@ -13,13 +13,15 @@ ul {
 a {
       text-decoration: none !important;
 }
-
+i{
+      cursor: pointer;
+}
 :root {
       --main-color: #f25454;
       --bg-color: #fafafa;
       --text-color: #282828;
       --main-transition: 0.4s;
-      --middile-transform: translate(-50%, -50%);
+      --middle-transform: translate(-50%, -50%);
 }
 
 .head-p {
@@ -49,8 +51,11 @@ a {
 nav {
       z-index: 5;
       border-bottom: solid 1px rgba(255, 255, 255, .3);
-}
 
+}
+.navbar{
+     background-color: rgb(40, 40, 40,.2) !important;
+}
 nav .nav-content ul li a {
       color: #fafafa;
       padding: .9rem;
@@ -202,7 +207,7 @@ nav .nav-content div a i:hover {
       position: absolute;
       top: 50%;
       left: 50%;
-      transform: var(--middile-transform);
+      transform: var(--middle-transform);
 }
 
 .carousel-control-next:hover .btn-content i,
@@ -229,7 +234,7 @@ header .carousel-item h1 {
       font-weight: bold;
       color: #fafafa;
       transition: var(--main-transition);
-      transform: var(--middile-transform);
+      transform: var(--middle-transform);
 }
 
 header .carousel-item.active h1 {
@@ -239,7 +244,7 @@ header .carousel-item.active h1 {
 .mouse-to-about {
       bottom: 5%;
       left: 50%;
-      transform: var(--middile-transform);
+      transform: var(--middle-transform);
       width: 1.7rem;
       height: 3rem;
       z-index: 2;
@@ -252,7 +257,7 @@ header .carousel-item.active h1 {
       animation: UpDown 1s linear infinite;
       left: 50%;
       bottom: 50%;
-      transform: var(--middile-transform);
+      transform: var(--middle-transform);
       width: .7rem;
       height: .7rem;
       border-radius: 50%;
@@ -296,7 +301,7 @@ header .carousel-item.active h1 {
 .main-title::after {
       content: "";
       left: 50%;
-      transform: var(--middile-transform);
+      transform: var(--middle-transform);
       height: 1px;
       width: 3rem;
       bottom: -5%;
@@ -343,7 +348,7 @@ header .carousel-item.active h1 {
 /* START missions */
 .missions {
       background-image: url(images/mission.webp);
-      background-position: center center;
+      background-position: center top;
       background-size: cover;
       background-attachment: fixed;
 }
