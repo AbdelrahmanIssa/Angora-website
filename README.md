@@ -2,7 +2,7 @@
 
 Angora Website - Pixel Perfect and Responsive
 # LiveDemo
-[Angora]([https://effortless-daffodil-6a74b2.netlify.app/](https://65cc5bcf987426727f7a2d92--genuine-croquembouche-f891ce.netlify.app/))
+[Angora Live Demo](https://effortless-daffodil-6a74b2.netlify.app/)
 
 ## Overview
 
