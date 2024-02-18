@@ -1,6 +1,9 @@
 # Project Name
 
 Angora Website - Pixel Perfect and Responsive
+# Video
+[Simple presentation For the Project](https://www.linkedin.com/posts/abdelrahman-essa-a4477b189_webdevelopment-frontend-html-activity-7163807600625627136-LqD3?utm_source=share&utm_medium=member_desktop)
+
 # LiveDemo
 [Angora Live Demo](https://65cc5bcf987426727f7a2d92--genuine-croquembouche-f891ce.netlify.app/)
 
